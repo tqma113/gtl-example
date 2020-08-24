@@ -1,5 +1,7 @@
 # Graph Test Language Example
 
+A example of [Graph Test Language](https://github.com/tqma113/graph-test-language).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
